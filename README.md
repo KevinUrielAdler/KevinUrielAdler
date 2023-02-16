@@ -3,7 +3,9 @@
 
 - 📫 How to reach me **kmanzanor24@gmail.com**
 
-- 📄 Know about my experiences [\<Resume\>](https://shorturl.at/imLPU)
+- 📄 Know about my experiences [\<Resume\>](https://github.com/KevinUrielAdler/Resume/blob/main/Resume.pdf)
+  - [Allearning Web](https://github.com/KevinUrielAdler/Allearning-Web)
+  - [Allearning Desktop](https://github.com/KevinUrielAdler/Allearning)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
