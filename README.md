@@ -6,6 +6,7 @@
 - 📄 Know about my experiences [\<Resume\>](https://github.com/KevinUrielAdler/Resume/blob/main/Resume.pdf)
   - [Allearning Web](https://github.com/KevinUrielAdler/Allearning-Web)
   - [Allearning Desktop](https://github.com/KevinUrielAdler/Allearning)
+  - [Asistente Virtual ZAID](https://github.com/KevinUrielAdler/AvZ)
   - [Máximos y Mínimos](https://github.com/KevinUrielAdler/Maximos-y-Minimos)
 
 <h3 align="left">Connect with me:</h3>
